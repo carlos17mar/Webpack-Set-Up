@@ -1,0 +1,1 @@
+(()=>{"use strict";var n=new(function(){function n(){}return n.prototype.add=function(o,e){return console.log("version ".concat(n.version)),o+e},n.version="1",n}());console.log(n.add(3,2))})();
